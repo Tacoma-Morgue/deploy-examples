@@ -1,3 +1,4 @@
 {
-    "docker.commands.build": null
+    "docker.commands.build": null,
+    "http.systemCertificates": false
 }
